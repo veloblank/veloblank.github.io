@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Projects heating up."
+date:       2017-06-28 05:39:09 -0400
+permalink:  finally_no_404
+---
+
+
+It's been a painful couple of months with figuring out blogging. I tried multiple Jekyll installations to try to get *anything* up on the screen. I tried Bootstrap and I've tried other Jekyll themes. My original breakthrough was in using a responsive Bootstrap theme, but I couldn't figure out how to get my posts to show up in the HTML. I knew I could "hard code" a post right into the HTML, simply by just typing into the HTML, but that would cut the connection from generating a post on Learn (and getting credit for it) and as well as throwing away a lot of easy "window dressing" for a post.
+
+My last post in April I thought was working, but it merely showed up as a headline and article snippet on Learn Magazine immediately after posting. Clicking on the post rerouted to a botched URL and spit back the "404" messages so many blogs are getting. I've tried to read other bloggers and see that it is pretty common. I think that it's a shame that many "published" blogging students at Flatiron are not getting eyeballs to their blogs, if they are having the same issues. For me personally, knowing that there was no one that was going to read my posts because of my failed technical side of things, kept me from writing while I was Learning. Additionally, I was trying to work with setting up the Namecheap domain, understanding Github, learning the IDE, and navigating my way around as a new Linux user, so I just shoved blogging into the background, until tonight. I knew I had messed up the blog somewhere along the way and that there should be a simple fix. It's now 5 AM and I'm so pumped I have a working blog, I just might stay up another 6 hours.
+
+I'm in a tough spot of the curriculum for me. I felt like I was wasting too much time not focusing on school while working a lot of hours, so a few weeks ago I decided to quit my job, and buckle down for a few months at Learn. Some days are waaay better than others, but I found myself not staying focused on completing the number of modules I had set for myself each day and not spending the correct amount of time on them. 
+
+In the past week, however, I've been rejuvenated and some abstract parts that I was struggling with are starting to "click" and I am wasting less time just staring at my text editor and finding a lot more enjoyment in the modules. With this click came the need to keep up with a blog as part of the school's requirements. I enjoy writing, not complaining, so I didn't want to continuously bash my head against a wall while trying to spend as much time as possible on the modules.
+
+Thankfully, the blog is now working. It's not pretty. The Jekyll way of doing things is awful for me, so I can't wait to tear into the HTML/CSS side of things and make it my own. For now, I can rest easy knowing that I can now post pictures of my cat.
