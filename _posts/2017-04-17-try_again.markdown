@@ -1,0 +1,17 @@
+---
+layout: post
+title:      "Try Again."
+date:       2017-04-17 15:54:52 -0400
+permalink:  try_again
+---
+
+
+Well, I suppose I should try this again. My goals for last week were to finish Procedural Ruby and try to sort out my blog. A few days ago I thought I had the blog figured out--I even got an index.html page to show up on my custom domain. Then, in the process, I moved around some Jekyll files, messing with the gh-pages and my master branch, and I jacked up the entire project back to a "404" command. A few days ago I reverted back to the **github.io** side of things until I figure out how to get back onto my domain. This definitely was all through my own fault. I think I'm still realizing what I actually stepped into when I joined the Flatiron program, and sometimes I don't see how big this achievement actually should be for me. It must be a protection mechanism so I don't feel underwhelmed. In doing so, I make minor things out to be harder than they really are, when all I needed was more education and more time spent looking at the problem. (Insert mandatory programming/coding allegory.)
+
+With the blog side of things figured out (somewhat), I just need to get back to writing more and play catchup with some assignments. I moved back from Sweden and am concentrating on this fulltime warehouse job I picked up to go alongside my schooling. It pays the bills, so I can't complain. My girlfriend is still going to school in Sweden and I'm looking forward to joining her in a few months again. Hopefully towards August-October, if all goes well with Flatiron and the job searching.
+
+Currently I'm working on the tail-end of procedural Ruby. I can see I will enjoy hashes and Regex like I enjoy the arrays of Ruby, but they definitely need to be studied in-depth and not just blown through in order to meet my goal to finish Procedural. I haven't fleshed out another week's goal yet. I was so tired from work this morning that I fell asleep and didn't make my Monday Stand-up. 
+
+Overall, I really enjoy Ruby, as I thought I would. I think I will feel the same about JS and whatever other programming languages I decide to pick up outside of web developing. I'm still getting used to thinking outside of the box on some of the problems. Part of the problem is I'm going into the work like a new carpenter who doesn't realize what's in his toolbox, or forgets the name of that dealie that will make the work so much easier and simpler (and beautiful. Because I learned code can be beautiful.) I know that this comes with time, and already has. What I know now through just 150 modules is already life-changing in terms of thinking about how to solve problems and find solutions with just the small toolbox that I have. 
+
+If I were to write a programming language, instead of "fatal error", I would just tell the programmer "Try Again."
