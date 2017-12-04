@@ -40,5 +40,5 @@ sass:
   sass_dir: assets/_sass
   style: compressed
 
-
+google_analytics: UA-97325335-1
 images: '/assets/images'
