@@ -2,18 +2,14 @@
 bg: "owl.jpg"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "About the blog"
 permalink: /about/
 summary: "About this blog"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is one of my many attempts at starting up a blog while going through Flatiron School. Many of my attempts fell flat because I didn't understand how a website worked very well. I knew that if I clicked a link it would take me to another page, but I didn't understand the relationship of the pages, their markup and other assets. I overly complicated things.
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Then, as I was going through HTML and CSS, I decided to go ultra simple and explore Jekyll. I downloaded several templates, but got frustrated with the templating language and just the overall styles not suiting my needs.
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+Fast forward many months later, and here the site is in it's current form. I decided to stick with a Jekyll theme, rather than do a bunch of building out of my own. After working with lodash and Handlebars, I see through to the markup "magic" and how simple it actually is to implement in a blog site, and why I developer would choose to use DRY templating.
