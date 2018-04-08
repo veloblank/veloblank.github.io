@@ -1,14 +1,32 @@
----
-bg: "rails.jpg"
-layout: default
-crawlertitle: "Jekyll blog"
-title: "Voyager"
-summary: ""
----
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="./styles/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+    <title>John Blank</title>
+  </head>
+  <body>
+    <div class="header">
+      <a href="index.html">
+        <h2>JOHN BLANK</h2>
+      </a>
+    </div>
+    <div class="menu">
+      <ul id="nav">
+        <li id="first-nav-item">
+          <a href="projects">PROJECTS</a>
+        </li>
+        <li>
+          <a href="blog">BLOG</a>
+        </li>
+        <li>
+          <a href="about">ABOUT</a>
+        <li>
+          <a href="contact">CONTACT</a>
+        </li>
+      </ul>
+    </div>
 
-{% for post in site.posts limit: 5 %}
-  <article class="index-page">
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    {{ post.excerpt }}
-  </article>
-{% endfor %}
+  </body>
+</html>
