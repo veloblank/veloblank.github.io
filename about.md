@@ -12,4 +12,4 @@ This is one of my many attempts at starting up a blog while going through Flatir
 
 Then, as I was going through HTML and CSS, I decided to go ultra simple and explore Jekyll. I downloaded several templates, but got frustrated with the templating language and just the overall styles not suiting my needs.
 
-Fast forward many months later, and here the site is in it's current form. I decided to stick with a Jekyll theme, rather than do a bunch of building out of my own. After working with lodash and Handlebars, I see through to the markup "magic" and how simple it actually is to implement in a blog site, and why I developer would choose to use DRY templating.
+Fast forward many months later, and here the site is in it's current form. I decided to stick with a Jekyll theme, rather than do a bunch of building out of my own. After working with lodash and Handlebars, I see through to the markup "magic" and how simple it actually is to implement in a blog site, and why a developer would choose to use DRY templating.
