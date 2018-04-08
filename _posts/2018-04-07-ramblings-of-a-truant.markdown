@@ -20,3 +20,10 @@ This is how I feel with my goal setting. Distraction is so easy in 2018. The med
 What does this all mean to a web developer? I'm not even sure. It's a 'chicken or the egg problem' when it comes to defining who's fault this all is, or the old mathematical 'correlation vs causation' argument. Are the media consumption patterns changing how web developers work, or can a web developer buck the trend (and still keep his job)?
 
 Just some rambling food for thought, as I dodge an overdue assignment and graduation...
+
+###5 things that currently have their hooks in me:
+  1. 50 hours/week at work
+  2. SpaceX launches
+  3. tofu burritos
+  4. woodpeckers 
+  5. car shopping
