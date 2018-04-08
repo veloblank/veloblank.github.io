@@ -21,7 +21,7 @@ What does this all mean to a web developer? I'm not even sure. It's a 'chicken o
 
 Just some rambling food for thought, as I dodge an overdue assignment and graduation...
 
-###5 things that currently have their hooks in me:
+### 5 things that currently have their hooks in me:
   1. 50 hours/week at work
   2. SpaceX launches
   3. tofu burritos
