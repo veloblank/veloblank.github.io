@@ -25,5 +25,5 @@ Just some rambling food for thought, as I dodge an overdue assignment and gradua
   1. 50 hours/week at work
   2. SpaceX launches
   3. tofu burritos
-  4. woodpeckers 
+  4. woodpeckers
   5. car shopping
