@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Back on the Regrind"
-date:       2018-06-05 09:00:00 +0000
+date:       2018-07-05 09:00:00 +0000
 permalink:  back_on_the_regrind
 ---
 
