@@ -15,7 +15,7 @@ As far as school is concerned, quitting my job makes the most sense. The web dev
 
 I'm currently working on a few side projects. I really need to keep working on projects to practice my programming and to start to wrangle back the passion I had at the start and middle of the curriculum. In the middle of 2017 my spirit for finding and accomplishing new and exciting things for myself was killed off and I allowed myself to just wallow for entirely too long in self-pity and anger. It affected everything that I had going for me at the time. I refuse to ever revisit that time of my life again.
 
-![Wolverine](https://gifer.com/en/NWXZ)
+![Wolverine](https://i.gifer.com/NWXZ.gif)
 
 Like many other times, the Geographic Cure is best for me. Graduating from Flatiron will allow me to find awesome jobs in cities and countries that fit in with my raison d'être. That's been lacking in my life for a long time--possibly my whole life. Nothing will ever be as important to me than that eventual shift in my near future. I need to stay focused on that objective and that mindset because it is all too easy to fall back into complacency. I am actually jealous of those people who have the determination to reach for the stars and who overcome extreme odds against them to pursue education or career goals. Those are the real MVPs in life.
 
