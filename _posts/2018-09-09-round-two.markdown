@@ -4,3 +4,17 @@ title:      "Round II: Now, Fight!"
 date:       2018-09-09 09:30:00 -0500
 permalink:  round_two
 ---
+
+Today is Day 1 of Round II. I left my IRL job on Friday. It was a lot of mixed emotions. I will miss the people in the trenches with me, the paycheck, and the distraction and mindlessness that went along with working a night shift in a warehouse. It feels unfair that I could do that as a temp, get hired on somewhat unexpectedly, and choose to leave, all in the same year, while others might not have that luxury.
+
+I'm leaving a lot of co-workers who have been there for years, and probably will stay there. They are either trapped from their own doing, or just won't move up much through the company's ranks. I'm sad because they are incredibly loyal to their jobs and to each other. I'm also sad because of all the changes I've gone through over the past year while I've been there. "You've made your bed, now lie in it." Yeah. I get it man. It's easy to point a finger at someone and be a dick, but how about a little empathy occasionally? How about attempting to understand that where a person is is not necessarily where they deserve to be. Our paths are full of our own decisions, others' biases, and society's 'flavor of the month'.
+
+In short: some luck, not karma puts us in the present moment. When we realize this we can begin to change where we are presently with choices to move us somewhere else. Right now, I don't like being without a job. How do I change that? By applying myself 100% over the next couple of months to finishing the Web Developer program. "Then what?" Well, that's out of my control. That's the future. How does a golfer play golf? He puts himself in high percentage areas where he can make another good shot to another high percentage area to where he finally taps in for a par. He might think a few shots ahead on the same hole, but it's pointless to plot out what he'll do on the 15th and 16th when he's only on the 4th hole. That leads to worry, and last place bro.
+
+For the next 50-60 days, I will live my life following this mindset. I will plan out a bit of the future, but in manageable chunks. If I hit a bad shot, I will take a little time to study more of that area of programming and shore up those weaknesses. I want to be a shoo-in for a job, possibly getting one before graduation (that is possible?). But I don't want to look so far into the future that I start to worry about not finishing or worry about interviewing, etc.
+
+One of my main goals is to blog every day. That is one of the best ways for me to stay accountable. It will improve my technical writing and teach me more about Markdown.
+
+Another goal of mine is to attend a developer Meetup. They are almost non-existent where I live. The next closest active group is in Baltimore, but there may be other ways to network, possibly through cold-calling companies to shadow a developer or to propose a short internship. Either way, I think achieving this will be beneficial for me in putting me at the top of the list of applicants when it comes time to apply for jobs.
+
+My final goal is for this week. I started to read [Why's Poignant Guide](http://poignant.guide/) and I've been enjoying it thoroughly. I would like to finish it by 9/14.
