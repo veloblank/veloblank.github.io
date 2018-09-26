@@ -43,12 +43,12 @@ is just the simple switch (and the save) the instance variable needs to toggle f
 I could go on about the project. I really enjoyed creating my application, and all the setbacks and subsequent victories made it even sweeter. I feel a tremendous amount of relief now that it's all done, and while I certainly have nothing bad to say about Sinatra, it's just time to move on to bigger and better things.
 
 One thing I did encounter when I was creating the application was an issue with sessions/cookies that I was trying to work through so I could create a persistent sidenav bar that would temporarily hold propositions until the user dumped them onto a list. Instead of just using the prop ID in an array, I was dumping strings into it and I was only able to have 2-3 propositions on the list. Lo and behold: 
-[Imgur](https://i.imgur.com/Tk44Ugf.png)
+![Imgur](https://i.imgur.com/Tk44Ugf.png)
 
 Stupid, newbie me. I could just as easily use the prop IDs and place them in the array stored in 'session' and then unload it later when I wanted my list. This would be cleaner coding and definitely the solution to "The Cookie Capacity Caper."
 
 Exhibit A:
-[Imgur](https://i.imgur.com/jNutCbg.png)
+![Imgur](https://i.imgur.com/jNutCbg.png)
 
 Well, it's late for me. Off to bed to wake up bright-eyed and bushy-tailed for Rails! It's a new day!
 
