@@ -8,6 +8,7 @@ summary: ""
 active: about
 ---
 
+![CodeWars](https://www.codewars.com/users/veloblank/badges/large)
 This is one of my many attempts at starting up a blog while going through Flatiron School. Many of my attempts fell flat because I didn't understand how a website worked very well. I knew that if I clicked a link it would take me to another page, but I didn't understand the relationship of the pages, their markup and other assets. I overly complicated things.
 
 Then, as I was going through HTML and CSS, I decided to go ultra simple and explore Jekyll. I downloaded several templates, but got frustrated with the templating language and just the overall styles not suiting my needs.
