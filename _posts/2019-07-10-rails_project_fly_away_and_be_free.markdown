@@ -17,7 +17,7 @@ In the end, it has paid off. My education coach Katie has also been encouraging,
 With that, this is my Rails application: Streak on Rails (SoR).
 
 ![](https://i.imgur.com/puGZ06y.png)
-**The face of the application.**
+##The face of the application.
 
 ![](https://i.imgur.com/SplguPi.png)
 Login
