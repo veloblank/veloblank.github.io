@@ -17,23 +17,23 @@ In the end, it has paid off. My education coach Katie has also been encouraging,
 With that, this is my Rails application: Streak on Rails (SoR).
 
 ![](https://i.imgur.com/puGZ06y.png)
-##The face of the application.
+**The face of the application.**
 
 ![](https://i.imgur.com/SplguPi.png)
-##Login
+**Login**
 
 ![](https://i.imgur.com/eBljDwD.png)
-##Admin Login gives Edit/Delete privileges as well as a different Nav bar
+**Admin Login gives Edit/Delete privileges as well as a different Nav bar**
 
 ![](https://i.imgur.com/6xXVNdv.png)
-##Admin page for scoring the winners
+**Admin page for scoring the winners**
 
 ![](https://i.imgur.com/h8uXWWY.png)
-##The Leaderboard with my seed data
+**The Leaderboard with my seed data**
 
 
 ![](https://i.imgur.com/lLiHy55.png)
-##Shows the users current Streak when signed in
+**Shows the users current Streak when signed in**
 
 My application models a fantasy sports game by ESPN called Streak for the Cash (SFTC). It has a 'board' of sports propositions each day that you can pick who you think will win the matchup. The matchup is locked once it's started and you must wait for a winner to be scored. If you win, you build a Streak. The highest Streak at the end of the month wins $25,000.
 
