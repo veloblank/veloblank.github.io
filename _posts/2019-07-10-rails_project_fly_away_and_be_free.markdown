@@ -17,7 +17,7 @@ In the end, it has paid off. My education coach Katie has also been encouraging,
 With that, this is my Rails application: Streak on Rails (SoR).
 
 ![](https://i.imgur.com/puGZ06y.png)
-The face of the application.
+**The face of the application.**
 
 ![](https://i.imgur.com/SplguPi.png)
 Login
@@ -61,4 +61,3 @@ Here Rails is looking for a board with props. For now the fix is to just run ```
 The repo can be found at: https://github.com/veloblank/silver-chainsaw
 
 As of now I am not hosting it on Heroku. There are some things I want to go over yet between now and my project review. Tomorrow it's the video walkthrough and then on to better things!!
-
