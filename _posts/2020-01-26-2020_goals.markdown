@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Let's Talk Goals"
+date: 2020-01-26 08:00:00 +0000
+permalink: lets_talk_goals_in_2020
+---
+
+It has taken me FOREVER to get to the end of the curriculum. My first pass through the React and Redux sections went OK. I felt I needed to go back over things to cement them better, especially in Redux, so I went over it a few times. I redid all the labs and went over all the READMEs around Christmas. This has not only helped me understand Redux and React better, but also has helped me with vanilla JS and the Git command line.
+
+Since then, it has been another long gap of time and I feel the information slipping away again. Being at the end of the Flatiron curriculum has done very little for my confidence because I know when pressed in a job-seeking setting, I won't remember how to best code under the time pressure, or, I'll forget to ask the right questions about a whiteboard code challenge and look incompetent.
+
+A lot ~~some~~ of this negative thinking is my own fault. I've been reading a lot of articles and forum posts about other bootcamp grads' long drawn-out job searches and that's sucked the wind from my sails more than a few times as I neared the end. I became focused on others' paths and lost sight of my own, derailing all the progress I had made since the last time I derailed. With a 70 Day Challenge, I hope to change all this.
+
+My #1 Goal: have a web developer job in Q1 2020.
+
+Let's make some SMART sub-goals:
+
+**SPECIFIC: let's answer the 5 W's**
+
+1. (what do I want to accomplish?)
+2. (why is this goal important?)
+3. (who is involved?)
+4. (where is it located?)
+5. (which resources or limits are involved?)
+
+Let's set a **SPECIFIC GOAL**: I want to graduate from Flatiron School so I can begin searching for a web developer job to create the life abroad that I want to have for me and my girlfriend.
+
+**MEASURABLE: let's measure our known data**
+
+1. modules remaining
+2. projects remaining
+3. (how will I know when it is accomplished?)
+
+**ACHIEVABLE: let's answer some questions**
+
+1. (how can I accomplish this goal?)
+2. (how realistic is the goal?)
+
+**RELEVANT: let's make sure this is what we want**
+
+1. does this seem worthwhile?
+2. is this the right time?
+3. does this match our other efforts/needs?
+4. am I the right person?
+5. is it applicable to the current time/place?
+
+**TIME-BOUND: let's fit this into a timeline**
+
+1.  when is the target date?
+2.  what can I do six months from now?
+3.  what can I do six weeks from now?
+4.  what can I do today?
+
+The target date is April 4, 2020, which is 70 days away.
